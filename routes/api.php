@@ -1,4 +1,4 @@
 <?php
 
 use Baubyte\Routing\Route;
-Route::get('/', fn () => json(['message' => 'Baubyte API']));
+Route::get('/api', fn () => json(['message' => 'Baubyte API']));
