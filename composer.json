@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "baubyte/baubyte-framework": "^0.1.0"
+        "baubyte/baubyte-framework": "^0.1.1"
     }
 }
