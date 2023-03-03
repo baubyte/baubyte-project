@@ -1,0 +1,20 @@
+{
+    "name": "baubyte/baubyte",
+    "description": "Baubyte Framework project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "BauByte",
+            "email": "paredbaez.martin@gmail.com"
+        }
+    ],
+    "require": {
+        "baubyte/baubyte-framework": "^0.1.0"
+    }
+}
